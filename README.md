@@ -6,11 +6,11 @@ UEFA Champions League (UCL) is one of the biggest football competition conducted
 ### The business issue 
 As a prospective sponsor interested in the football industry point view, how can I determine the most efficient sponsorship opportunities within the UEFA Champions League
 
-To answer this question, I was consider several key performance indicators (KPIs) :
+To answer this question, I considered several key performance indicators (KPIs) :
 
-### KPI's
+### Categories
 
-#### Team and Player Performance 
+#### Player Performance 
 Consider the performance of teams and players in the league, as successful teams and star players often attract more attention and provide better sponsorship opportunities.
 
 #### Stadium  
