@@ -27,13 +27,43 @@ Analyze the competitive highlight to understand better in which different catego
 
 ## Levels of the project 
 
-1. Data Understanding - The dataset contains teams, players details, player stats and records, team managers, matches and their results, goals, stadiums and more from 2016 to 2022.
+### 1. Data Understanding
 
-2. EDA (Exploratory Data Analysis) and Feature Engineering
+   The dataset contains teams, players details, player stats and records, team managers, matches and their results, goals, stadiums and more from 2016 to 2022.
+
+### 2. EDA (Exploratory Data Analysis) and Feature Engineering
    https://github.com/ArielAckerman/UEFA_Champions_League_Project/blob/main/SQL%20UCL%20PROJECT.sql
 
-3. Report And Presentation               
+### 3. Report And Presentation               
    https://public.tableau.com/app/profile/itay.glantzen/viz/ProjectUefachampionsleage/TeamandPlayerPerformence
 
-4. Conclusion And Recommendations 
+### 4. Conclusion And Recommendations
+
+   #### Key Players:
+
+We recommend Robert Lewandowski to represent our brand. After analyzing the data, we have found that he has scored the most goals 54 and 15 assists between 2016 and 2022. He has also won 2 awards as the best scorer of the season and assists player of the season for 2019-2020.
+
+From a national perspective, we recommend Messi and Neymar to represent Latin America, and Salah and Mane to represent Africa. These players have been found to lead the scoring list and assists.
+
+#### Stadiums:
+
+We recommend using Allianz Arena and Etihad Stadium to promote our brand, as we have observed that the most goals are scored in these stadiums. Additionally, we have found that the home teams in these stadiums, namely Bayern Munich and Manchester City, have the highest chances of winning. From a strategic perspective, we have noticed that fans are in a positive mood for celebrating, which correlates with increased purchases.
+
+Furthermore, the Camp Nou has the largest capacity among all the stadiums and a high percentage of attendance. Therefore, we recommend considering this stadium as well.
+
+#### Team Reputation:
+
+We observed that the teams with the highest scoring records between 2016 and 2022 are Bayern Munich, Real Madrid, and Manchester City. We recommend collaborating with these teams to feature the brand's logo on their shirts.
+
+#### Highlights
+
+After analyzing the timing of goal-scoring during matches, we have found that the optimal time to promote our brand is during the second half of the game. Additionally, we observed that the majority of goals are scored between the 80th and 90th minutes. This indicates that the highest level of exposure to viewers occurs in the second half, particularly during the 80th to 90th-minute period, allowing us to expand our brand exposure effectively.
+
+#### Nationality
+
+We can observe that the data for 2016 and 2022 shows the highest number of German players, and additionally, German teams have scored the most goals in the UEFA Champions League. As a result, we recommend that German brands consider advertising during UEFA Champions League games.
+
+ג
+
+
 
